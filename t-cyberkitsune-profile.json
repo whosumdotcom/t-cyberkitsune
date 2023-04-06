@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T00:23:43Z",
+  "IdClaims": [
+    {
+      "Claim": "t:cyberkitsune"
+    },
+    {
+      "Claim": "gh:cyberkitsune"
+    },
+    {
+      "Claim": "mdon:@cyberkitsune@pawb.fun"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "c3e26c910976ea4e85562d4d",
+    "Timestamp": "2023-04-06T00:24:52Z",
+    "Signature": "90010718ad84beeacefeb1f289541650ebce3f9ca25884a160d17f088b6b5bfce35ea10f605e62ce1c6438b5bc41d65363afe7455e31ddc75e26d0c495cb6bf20248ff7006d851c67edf54c5d26e4b4bba110e12004d5890b97cbe2e3831d4831b6827165197b355683cb2fecfef0164f49fd9013bee01a794abdcefaa89ec4ac9e311acc211640210d54140599fe5d16a46eefd11ba163b02daa16d5f0e50f980a1ecfdc7c734953685f009e7d2f04299514290c80a2e82bb3a72ba6a3e62e53c0d24d2032cf3c2fe90e486702dcc96c18f2a8a54d4d9a52a49af317523604727215c79057dc137fbd70e33dd546ec2ffb4aba97ba0dc6c04eb95a66d500675"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "f6873df5e52665f27daf62d05ba91c22483b9e02ecf511523e69dfaf61ad8d6e",
+  "ContentToHash": "v1|gh:cyberkitsune,mdon:@cyberkitsune@pawb.fun,t:cyberkitsune|2023-04-06T00:23:43Z"
+}
